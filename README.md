@@ -20,7 +20,7 @@ https://javarrisb.github.io/Travel-Buddy/
 
 
 # Contributions
--Made with hard work by:
+- Made with hard work by:
 - Khaoula Jabour
 - Raniah Jeanlys
 - Kenneth Dodd
