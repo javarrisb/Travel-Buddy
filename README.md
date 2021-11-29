@@ -13,7 +13,7 @@
 
 
 # Website Link 
-https://javarrisb.github.io/Travel-Buddy/
+https://khaoulaja.github.io/Travel-Buddy/
 
 # Travel Buddy Image
 ![image](https://user-images.githubusercontent.com/89273544/143795682-63cf735c-346a-4a30-843d-d5d7b3e51f77.png)
